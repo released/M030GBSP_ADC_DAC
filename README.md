@@ -11,7 +11,7 @@ udpate @ 2024/06/25
 	
 	- initial DAC channel PA.0 : DAC0_OUT
 
-2. press digit A/a , to enable/disalbe ADC log 
+2. press digit A/a , to enable/disable ADC log 
 
 ![image](https://github.com/released/M030GBSP_ADC_DAC/blob/main/log_ADC.jpg)
 
